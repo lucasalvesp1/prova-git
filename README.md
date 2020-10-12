@@ -2,12 +2,11 @@
 
 1. Clone o repositorio no seu computador
 2. Faça uma nova branch com o seu nome
-3. Entrar na sua branch
-4. No diretório das imagens, adicionar uma imagem que desejar
-5. No index.html, editar a linha para sua imagem com a nome de imagem
- - Se fez tudo certo, quando abri index.html, vai mostrar a sua imagem
-6. Fazer upload do seu novo branch para o repositorio remote
+3. Entre na sua branch
+4. No diretório das imagens, adicione uma imagem qualquer
+5. No index.html, edite a linha com a nome de imagem
+ - Nesse ponto. Se você tiver feito tudo certo, quando abrir index.html, vai exibir a sua imagem
+6. Realize o upload da sua nova branch para o repositorio remote
 
-Tem uma hora para completar.
-Pode usar o Git programa ou Git command line.
-Pode usar Google ou outros sites de busca, mas nao pode perguntar outras pessoas.
+Você tem uma hora para completar o desafio
+Pode usar Google ou outros sites de busca, mas nao pode perguntar para outras pessoas.
